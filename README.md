@@ -32,4 +32,4 @@ If you would like to add a series of airports to the mode S, create an issue on 
 
 The current mode S airspace for the plugin is as follows:
 
-![Mode S Map](https://s3.eu-central-1.amazonaws.com/pithos/ShareX/2015/12/23.12.2015.modeS.gif)
+![Mode S Map](https://camo.githubusercontent.com/b55cdc532e8344ecee7ca2a6dec2c6b127fbe358b9ce60da1176bc5d7db8bddf/68747470733a2f2f692e696d6775722e636f6d2f305655684d61642e706e67)
