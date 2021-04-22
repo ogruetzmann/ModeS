@@ -1,3 +1,5 @@
+# This project is now upgraded to CCAMS (Centralised code assignment and management system) and maintained by Jonas Kuster on [kusterjs/CCAMS](https://github.com/kusterjs/CCAMS), please download the plugin from there. This repository is only here for archiving purposes.
+
 # Mode S plugin
 
 This plugin was designed to simulate mode S correlation on EuroScope, for use on the VATSIM Network. Just load the plugin in EuroScope, and squawk 1000 will be assigned for capable aircraft above FL245 without assigned sqauwk or with generic codes like 0000, 1200, 2000, 2200.
